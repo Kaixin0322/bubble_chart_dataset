@@ -1,65 +1,64 @@
-Local Government Areas ,population
-Ballarat,113220
-Creswick - Daylesford - Ballan,30788
-Maryborough - Pyrenees,26778
-Bendigo,108818
-Heathcote - Castlemaine - Kyneton,50913
-Loddon - Elmore,35162
-Geelong,219950
-Surf Coast - Bellarine Peninsula,99388
-Upper Goulburn Valley,54316
-Wangaratta - Benalla,48494
-Wodonga - Alpine,74894
-Baw Baw,59386
-Gippsland - East,48044
-Gippsland - South West,63665
-Latrobe Valley,77521
-Wellington,41677
-Brunswick - Coburg,92062
-Darebin - South,53944
-Essendon,69410
-Melbourne City,174499
-Port Phillip,102905
-Stonnington - West,64481
-Yarra,95254
-Boroondara,177400
-Manningham - West,100071
-Whitehorse - West,109757
-Bayside,102177
-Glen Eira,142350
-Kingston,124026
-Stonnington - East,42937
-Banyule,129348
-Darebin - North,105539
-Nillumbik - Kinglake,64448
-Whittlesea - Wallan,291458
-Keilor,44873
-Macedon Ranges,33651
-Moreland - North,85720
-Sunbury,46293
-Tullamarine - Broadmeadows,228996
-Knox,183901
-Manningham - East,26483
-Maroondah,118422
-Whitehorse - East,63485
-Yarra Ranges,168966
-Cardinia,114268
-Casey - North,359267
-Dandenong,224577
-Monash,198220
-Brimbank,195908
-Hobsons Bay,87008
-Maribyrnong,95526
-Melton - Bacchus Marsh,246047
-Wyndham,345080
-Frankston,141078
-Mornington Peninsula,166763
-Grampians,61660
-Mildura,67116
-Murray River - Swan Hill,37974
-Campaspe,38503
-Moira,30571
-Shepparton,68633
-Glenelg - Southern Grampians,36489
-Colac - Corangamite,35443
-Warrnambool,53027
+Local Government Areas ,distance(km),population
+Melbourne City,0 km,174499
+Yarra,2 km,95254
+Port Phillip,3 km,102905
+Stonnington - West,4 km,64481
+Maribyrnong,8 km,95526
+Darebin - South,8 km,53944
+Stonnington - East,7 km,42937
+Brunswick - Coburg,6 km,92062
+Glen Eira,10 km,142350
+Essendon,10 km,69410
+Boroondara,10 km,177400
+Moreland - North,10 km,85720
+Hobsons Bay,15 km,87008
+Whitehorse - West,15 km,109757
+Manningham - West,15 km,100071
+Bayside,15 km,102177
+Darebin - North,15 km,105539
+Banyule,16 km,129348
+Manningham - East,20 km,26483
+Kingston,20 km,124026
+Tullamarine - Broadmeadows,20 km,228996
+Keilor,20 km,44873
+Brimbank,20 km,195908
+Whitehorse - East,20 km,63485
+Monash,20 km,198220
+Wyndham,25 km,345080
+Maroondah,25 km,118422
+Knox,25 km,183901
+Dandenong,30 km,224577
+Whittlesea - Wallan,35 km,291458
+Yarra Ranges,35 km,168966
+Frankston,40 km,141078
+Sunbury,40 km,46293
+Nillumbik - Kinglake,40 km,64448
+Melton - Bacchus Marsh,45 km,246047
+Casey - North,45 km,359267
+Creswick - Daylesford - Ballan,100 km,30788
+Ballarat,110 km,113220
+Heathcote - Castlemaine - Kyneton,110 km,50913
+Baw Baw,120 km,59386
+Upper Goulburn Valley,120 km,54316
+Latrobe Valley,150 km,77521
+Bendigo,150 km,108818
+Colac - Corangamite,150 km,35443
+Loddon - Elmore,180 km,35162
+Campaspe,180 km,38503
+Shepparton,180 km,68633
+Maryborough - Pyrenees,170 km,26778
+Wangaratta - Benalla,230 km,48494
+Wellington,220 km,41677
+Gippsland - South West,200 km,63665
+Geelong,75 km,219950
+Surf Coast - Bellarine Peninsula,90 km,99388
+Macedon Ranges,60 km,33651
+Cardinia,50 km,114268
+Grampians,250 km,61660
+Warrnambool,260 km,53027
+Gippsland - East,280 km,48044
+Wodonga - Alpine,300 km,74894
+Murray River - Swan Hill,340 km,37974
+Glenelg - Southern Grampians,340 km,36489
+Moira,240 km,30571
+Mildura,540 km,67116
