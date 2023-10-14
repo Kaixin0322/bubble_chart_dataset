@@ -1,0 +1,64 @@
+Local Government Areas ,Distance from Melbourne city center(km),Estimated price for a 3-bedroom house price($)
+Melbourne City,0,"1,536.30"
+Yarra,2,"2,099.11"
+Port Phillip,3,"1,329.94"
+Stonnington - West,4,"1,941.82"
+Maribyrnong,8,"1,157.15"
+Darebin - South,8,"1,068.86"
+Stonnington - East,7,"1,941.82"
+Brunswick - Coburg,6,"1,198.74"
+Glen Eira,10,"1,326.03"
+Essendon,10,"1,449.81"
+Boroondara,10,"2,925.49"
+Moreland - North,10,"1,065.75"
+Hobsons Bay,15,"1,356.99"
+Whitehorse - West,15,"1,000.05"
+Manningham - West,15,"1,281.87"
+Bayside,15,"2,800.20"
+Darebin - North,15,"1,068.86"
+Banyule,16,"1,312.15"
+Manningham - East,20,"1,281.87"
+Kingston,20,"1,030.35"
+Tullamarine - Broadmeadows,20,538.117
+Keilor,20,"1,223.12"
+Brimbank,20,639.138
+Whitehorse - East,20,"1,000.05"
+Monash,20,"1,289.57"
+Wyndham,25,570.48
+Maroondah,25,965.117
+Knox,25,880.55
+Dandenong,30,650.006
+Whittlesea - Wallan,35,587.675
+Yarra Ranges,35,792.953
+Frankston,40,710.531
+Sunbury,40,589.392
+Nillumbik - Kinglake,40,987
+Melton - Bacchus Marsh,45,528.41
+Casey - North,45,680.433
+Creswick - Daylesford - Ballan,100,964
+Ballarat,110,951
+Heathcote - Castlemaine - Kyneton,110,938
+Baw Baw,120,925
+Upper Goulburn Valley,120,912
+Latrobe Valley,150,899
+Bendigo,150,885
+Colac - Corangamite,150,873
+Loddon - Elmore,180,861
+Campaspe,180,850
+Shepparton,180,838
+Maryborough - Pyrenees,170,825
+Wangaratta - Benalla,230,814
+Wellington,220,803
+Gippsland - South West,200,792
+Geelong,75,874.774
+Surf Coast - Bellarine Peninsula,90,"1,141.53"
+Macedon Ranges,60,780
+Cardinia,50,619.098
+Grampians,250,768
+Warrnambool,260,757
+Gippsland - East,280,746
+Wodonga - Alpine,300,735
+Murray River - Swan Hill,340,725
+Glenelg - Southern Grampians,340,715
+Moira,240,705
+Mildura,540,695
