@@ -1,29 +1,29 @@
 Local Government Areas ,Distance from Melbourne city center(km),Estimated price for a 3-bedroom house price($)
-Melbourne City,0,"1,536.30"
-Yarra,2,"2,099.11"
-Port Phillip,3,"1,329.94"
-Stonnington - West,4,"1,941.82"
-Maribyrnong,8,"1,157.15"
-Darebin - South,8,"1,068.86"
-Stonnington - East,7,"1,941.82"
-Brunswick - Coburg,6,"1,198.74"
-Glen Eira,10,"1,326.03"
-Essendon,10,"1,449.81"
-Boroondara,10,"2,925.49"
-Moreland - North,10,"1,065.75"
-Hobsons Bay,15,"1,356.99"
-Whitehorse - West,15,"1,000.05"
-Manningham - West,15,"1,281.87"
-Bayside,15,"2,800.20"
-Darebin - North,15,"1,068.86"
-Banyule,16,"1,312.15"
-Manningham - East,20,"1,281.87"
-Kingston,20,"1,030.35"
-Tullamarine - Broadmeadows,20,538.117
-Keilor,20,"1,223.12"
+Melbourne City,0,"1536.30"
+Yarra,2,"2099.11"
+Port Phillip,3,"1329.94"
+Stonnington - West,4,"1941.82"
+Maribyrnong,8,"1157.15"
+Darebin - South,8,"1068.86"
+Stonnington - East,7,"1941.82"
+Brunswick - Coburg,6,"1198.74"
+Glen Eira,10,"1326.03"
+Essendon,10,"1449.81"
+Boroondara,10,"2925.49"
+Moreland - North,10,"1065.75"
+Hobsons Bay,15,"1356.99"
+Whitehorse - West,15,"1000.05"
+Manningham - West,15,"1281.87"
+Bayside,15,"2800.20"
+Darebin - North,15,"1068.86"
+Banyule,16,"1312.15"
+Manningham - East,20,"1281.87"
+Kingston,20,"1030.35"
+Tullamarine - Broadmeadows,20538.117
+Keilor,20,"1223.12"
 Brimbank,20,639.138
-Whitehorse - East,20,"1,000.05"
-Monash,20,"1,289.57"
+Whitehorse - East,20,"1000.05"
+Monash,20,"1289.57"
 Wyndham,25,570.48
 Maroondah,25,965.117
 Knox,25,880.55
@@ -51,7 +51,7 @@ Wangaratta - Benalla,230,814
 Wellington,220,803
 Gippsland - South West,200,792
 Geelong,75,874.774
-Surf Coast - Bellarine Peninsula,90,"1,141.53"
+Surf Coast - Bellarine Peninsula,90,"1141.53"
 Macedon Ranges,60,780
 Cardinia,50,619.098
 Grampians,250,768
